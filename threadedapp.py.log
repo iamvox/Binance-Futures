@@ -1,0 +1,516 @@
+2021-05-05 14:04:42,792 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:42,798 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:43,041 [INFO    ] 85904 4763430400 handler: ::ffff:127.0.0.1 - - [2021-05-05 14:04:43] "GET / HTTP/1.1" 200 939 0.247320
+2021-05-05 14:04:43,432 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:43,438 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:43,462 [INFO    ] 85904 4763430400 handler: ::ffff:127.0.0.1 - - [2021-05-05 14:04:43] "GET /_favicon.ico?v=1.19.0 HTTP/1.1" 200 9768 0.029554
+2021-05-05 14:04:43,490 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:43,495 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:43,526 [INFO    ] 85904 4763430400 handler: ::ffff:127.0.0.1 - - [2021-05-05 14:04:43] "GET /_dash-layout HTTP/1.1" 200 1411 0.036221
+2021-05-05 14:04:43,537 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:43,542 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:43,543 [INFO    ] 85904 4763430400 handler: ::ffff:127.0.0.1 - - [2021-05-05 14:04:43] "GET /_dash-dependencies HTTP/1.1" 200 281 0.006219
+2021-05-05 14:04:43,576 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:43,582 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:43,589 [DEBUG   ] 85904 4763430400 handler: Attempting to upgrade connection
+2021-05-05 14:04:43,594 [DEBUG   ] 85904 4763430400 handler: WebSocket request accepted, switching protocols
+2021-05-05 14:04:44,735 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:44,741 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:44,746 [DEBUG   ] 85904 4763430400 handler: Can only upgrade connection if using GET method.
+2021-05-05 14:04:44,774 [INFO    ] 85904 4763430400 handler: ::ffff:127.0.0.1 - - [2021-05-05 14:04:44] "POST /_dash-update-component HTTP/1.1" 200 1344 0.039168
+2021-05-05 14:04:45,492 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:45,499 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:45,499 [DEBUG   ] 85904 4763430400 handler: Can only upgrade connection if using GET method.
+2021-05-05 14:04:45,514 [INFO    ] 85904 4763430400 handler: ::ffff:127.0.0.1 - - [2021-05-05 14:04:45] "POST /_dash-update-component HTTP/1.1" 200 1363 0.021272
+2021-05-05 14:04:46,169 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:46,175 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:46,175 [DEBUG   ] 85904 4763430400 handler: Can only upgrade connection if using GET method.
+2021-05-05 14:04:46,197 [INFO    ] 85904 4763430400 handler: ::ffff:127.0.0.1 - - [2021-05-05 14:04:46] "POST /_dash-update-component HTTP/1.1" 200 1380 0.027912
+2021-05-05 14:04:47,376 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:47,376 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:47,376 [DEBUG   ] 85904 4763430400 handler: Can only upgrade connection if using GET method.
+2021-05-05 14:04:47,393 [INFO    ] 85904 4763430400 handler: ::ffff:127.0.0.1 - - [2021-05-05 14:04:47] "POST /_dash-update-component HTTP/1.1" 200 1395 0.016844
+2021-05-05 14:04:49,326 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:49,334 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:49,334 [DEBUG   ] 85904 4763430400 handler: Can only upgrade connection if using GET method.
+2021-05-05 14:04:49,350 [INFO    ] 85904 4763430400 handler: ::ffff:127.0.0.1 - - [2021-05-05 14:04:49] "POST /_dash-update-component HTTP/1.1" 200 1412 0.024154
+2021-05-05 14:04:50,940 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:50,940 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:50,947 [DEBUG   ] 85904 4763430400 handler: Can only upgrade connection if using GET method.
+2021-05-05 14:04:50,967 [INFO    ] 85904 4763430400 handler: ::ffff:127.0.0.1 - - [2021-05-05 14:04:50] "POST /_dash-update-component HTTP/1.1" 200 1425 0.026740
+2021-05-05 14:04:52,001 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:52,001 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:52,001 [DEBUG   ] 85904 4763430400 handler: Can only upgrade connection if using GET method.
+2021-05-05 14:04:52,023 [INFO    ] 85904 4763430400 handler: ::ffff:127.0.0.1 - - [2021-05-05 14:04:52] "POST /_dash-update-component HTTP/1.1" 200 1440 0.022457
+2021-05-05 14:04:52,697 [DEBUG   ] 85904 4763430400 handler: Initializing WebSocket
+2021-05-05 14:04:52,697 [DEBUG   ] 85904 4763430400 handler: Validating WebSocket request
+2021-05-05 14:04:52,697 [DEBUG   ] 85904 4763430400 handler: Can only upgrade connection if using GET method.
+2021-05-05 14:04:52,719 [INFO    ] 85904 4763430400 handler: ::ffff:127.0.0.1 - - [2021-05-05 14:04:52] "POST /_dash-update-component HTTP/1.1" 200 1453 0.021508
+2021-05-05 14:04:55,793 [DEBUG   ] 85904 4763430400 websocket: Failed to write closing frame -> closing socket
+2021-05-05 14:04:55,799 [DEBUG   ] 85904 4763430400 websocket: Closed WebSocket
+2021-05-07 01:26:12,839 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:12,845 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:13,128 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:13] "GET / HTTP/1.1" 200 939 0.289848
+2021-05-07 01:26:13,523 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:13,529 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:13,575 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:13] "GET /_favicon.ico?v=1.19.0 HTTP/1.1" 200 9768 0.051855
+2021-05-07 01:26:13,586 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:13,587 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:13,605 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:13] "GET /_dash-layout HTTP/1.1" 200 1411 0.018413
+2021-05-07 01:26:13,606 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:13,606 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:13,607 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:13] "GET /_dash-dependencies HTTP/1.1" 200 281 0.001568
+2021-05-07 01:26:13,608 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:13,608 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:13,626 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:13] "GET /_favicon.ico?v=1.19.0 HTTP/1.1" 200 9768 0.017554
+2021-05-07 01:26:13,655 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:13,655 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:13,655 [DEBUG   ] 4631 4614172160 handler: Attempting to upgrade connection
+2021-05-07 01:26:13,656 [DEBUG   ] 4631 4614172160 handler: WebSocket request accepted, switching protocols
+2021-05-07 01:26:14,810 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:14,810 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:14,810 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:14,844 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:14] "POST /_dash-update-component HTTP/1.1" 200 1344 0.034094
+2021-05-07 01:26:15,591 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:15,592 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:15,592 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:15,607 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:15] "POST /_dash-update-component HTTP/1.1" 200 1364 0.015192
+2021-05-07 01:26:15,934 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:15,940 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:15,940 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:15,962 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:15] "POST /_dash-update-component HTTP/1.1" 200 1380 0.027437
+2021-05-07 01:26:17,838 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:17,845 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:17,851 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:17,873 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:17] "POST /_dash-update-component HTTP/1.1" 200 1395 0.034337
+2021-05-07 01:26:18,618 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:18,618 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:18,618 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:18,644 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:18] "POST /_dash-update-component HTTP/1.1" 200 1409 0.026139
+2021-05-07 01:26:19,609 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:19,615 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:19,621 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:19,648 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:19] "POST /_dash-update-component HTTP/1.1" 200 1424 0.039733
+2021-05-07 01:26:21,629 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:21,629 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:21,629 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:21,644 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:21] "POST /_dash-update-component HTTP/1.1" 200 1438 0.015386
+2021-05-07 01:26:22,460 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:22,465 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:22,471 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:22,491 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:22] "POST /_dash-update-component HTTP/1.1" 200 1452 0.031103
+2021-05-07 01:26:22,930 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:22,936 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:22,983 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:22] "GET / HTTP/1.1" 200 782 0.052697
+2021-05-07 01:26:23,151 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:23,157 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:23,180 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:23] "GET /_dash-layout HTTP/1.1" 200 1411 0.028411
+2021-05-07 01:26:23,198 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:23,199 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:23,223 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:23] "GET /_favicon.ico?v=1.19.0 HTTP/1.1" 200 9768 0.024234
+2021-05-07 01:26:23,234 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:23,239 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:23,246 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:23] "GET /_dash-dependencies HTTP/1.1" 200 281 0.011462
+2021-05-07 01:26:23,268 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:23,268 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:23,309 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:23] "GET /_favicon.ico?v=1.19.0 HTTP/1.1" 200 9768 0.041151
+2021-05-07 01:26:23,326 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:23,333 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:23,339 [DEBUG   ] 4631 4614172160 handler: Attempting to upgrade connection
+2021-05-07 01:26:23,340 [DEBUG   ] 4631 4614172160 handler: WebSocket request accepted, switching protocols
+2021-05-07 01:26:24,853 [DEBUG   ] 4631 4614172160 websocket: Failed to write closing frame -> closing socket
+2021-05-07 01:26:24,853 [DEBUG   ] 4631 4614172160 websocket: Closed WebSocket
+2021-05-07 01:26:25,147 [DEBUG   ] 4631 4614172160 websocket: Failed to write closing frame -> closing socket
+2021-05-07 01:26:25,147 [DEBUG   ] 4631 4614172160 websocket: Closed WebSocket
+2021-05-07 01:26:25,155 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:25,155 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:25,155 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:25,177 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:25] "POST /_dash-update-component HTTP/1.1" 200 1345 0.022236
+2021-05-07 01:26:27,161 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:27,167 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:27,172 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:27,196 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:27] "POST /_dash-update-component HTTP/1.1" 200 1364 0.034830
+2021-05-07 01:26:28,599 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:28,605 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:28,605 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:28,630 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:28] "POST /_dash-update-component HTTP/1.1" 200 1380 0.030937
+2021-05-07 01:26:30,499 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:30,499 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:30,499 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:30,515 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:30] "POST /_dash-update-component HTTP/1.1" 200 1394 0.016264
+2021-05-07 01:26:31,699 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:31,699 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:31,699 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:31,714 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:31] "POST /_dash-update-component HTTP/1.1" 200 1408 0.015431
+2021-05-07 01:26:32,768 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:32,768 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:32,769 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:32,791 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:32] "POST /_dash-update-component HTTP/1.1" 200 1422 0.023008
+2021-05-07 01:26:34,910 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:34,916 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:34,916 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:34,938 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:34] "POST /_dash-update-component HTTP/1.1" 200 1437 0.027658
+2021-05-07 01:26:36,098 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:36,104 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:36,110 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:36,125 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:36] "POST /_dash-update-component HTTP/1.1" 200 1451 0.026804
+2021-05-07 01:26:36,898 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:36,905 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:36,905 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:36,921 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:36] "POST /_dash-update-component HTTP/1.1" 200 1466 0.022162
+2021-05-07 01:26:37,711 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:37,711 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:37,711 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:37,725 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:37] "POST /_dash-update-component HTTP/1.1" 200 1480 0.014750
+2021-05-07 01:26:39,494 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:39,494 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:39,494 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:39,511 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:39] "POST /_dash-update-component HTTP/1.1" 200 1494 0.016879
+2021-05-07 01:26:40,057 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:40,063 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:40,064 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:40,091 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:40] "POST /_dash-update-component HTTP/1.1" 200 1507 0.033551
+2021-05-07 01:26:41,753 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:41,753 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:41,753 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:41,775 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:41] "POST /_dash-update-component HTTP/1.1" 200 1520 0.022351
+2021-05-07 01:26:42,588 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:42,588 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:42,588 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:42,604 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:42] "POST /_dash-update-component HTTP/1.1" 200 1534 0.015293
+2021-05-07 01:26:43,301 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:43,301 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:43,307 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:43,323 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:43] "POST /_dash-update-component HTTP/1.1" 200 1547 0.021604
+2021-05-07 01:26:43,656 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:43,656 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:43,656 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:43,673 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:43] "POST /_dash-update-component HTTP/1.1" 200 1561 0.016633
+2021-05-07 01:26:45,418 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:45,427 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:45,428 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:45,443 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:45] "POST /_dash-update-component HTTP/1.1" 200 1573 0.024532
+2021-05-07 01:26:46,427 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:46,427 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:46,427 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:46,443 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:46] "POST /_dash-update-component HTTP/1.1" 200 1587 0.016567
+2021-05-07 01:26:47,939 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:47,939 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:47,939 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:47,962 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:47] "POST /_dash-update-component HTTP/1.1" 200 1600 0.022984
+2021-05-07 01:26:48,499 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:48,500 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:48,500 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:48,509 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:48] "POST /_dash-update-component HTTP/1.1" 200 1613 0.009229
+2021-05-07 01:26:49,897 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:49,897 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:49,897 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:49,913 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:49] "POST /_dash-update-component HTTP/1.1" 200 1625 0.015993
+2021-05-07 01:26:51,831 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:51,837 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:51,837 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:51,853 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:51] "POST /_dash-update-component HTTP/1.1" 200 1637 0.021943
+2021-05-07 01:26:52,384 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:52,384 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:52,384 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:52,406 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:52] "POST /_dash-update-component HTTP/1.1" 200 1649 0.021896
+2021-05-07 01:26:54,472 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:54,472 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:54,473 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:54,489 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:54] "POST /_dash-update-component HTTP/1.1" 200 1662 0.016799
+2021-05-07 01:26:54,850 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:54,850 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:54,850 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:54,865 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:54] "POST /_dash-update-component HTTP/1.1" 200 1675 0.014773
+2021-05-07 01:26:56,928 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:56,935 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:56,935 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:56,950 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:56] "POST /_dash-update-component HTTP/1.1" 200 1686 0.022354
+2021-05-07 01:26:58,316 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:58,317 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:58,317 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:58,345 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:58] "POST /_dash-update-component HTTP/1.1" 200 1698 0.028237
+2021-05-07 01:26:59,415 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:26:59,420 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:26:59,426 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:26:59,448 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:26:59] "POST /_dash-update-component HTTP/1.1" 200 1711 0.033463
+2021-05-07 01:27:01,380 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:01,381 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:01,381 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:01,396 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:01] "POST /_dash-update-component HTTP/1.1" 200 1726 0.015170
+2021-05-07 01:27:02,683 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:02,683 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:02,683 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:02,705 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:02] "POST /_dash-update-component HTTP/1.1" 200 1739 0.021502
+2021-05-07 01:27:03,757 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:03,757 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:03,757 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:03,773 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:03] "POST /_dash-update-component HTTP/1.1" 200 1752 0.015434
+2021-05-07 01:27:04,172 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:04,172 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:04,172 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:04,199 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:04] "POST /_dash-update-component HTTP/1.1" 200 1764 0.027384
+2021-05-07 01:27:06,123 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:06,129 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:06,135 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:06,169 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:06] "POST /_dash-update-component HTTP/1.1" 200 1774 0.046329
+2021-05-07 01:27:07,195 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:07,196 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:07,196 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:07,217 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:07] "POST /_dash-update-component HTTP/1.1" 200 1786 0.021307
+2021-05-07 01:27:08,723 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:08,723 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:08,723 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:08,746 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:08] "POST /_dash-update-component HTTP/1.1" 200 1798 0.023215
+2021-05-07 01:27:09,377 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:09,377 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:09,377 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:09,408 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:09] "POST /_dash-update-component HTTP/1.1" 200 1810 0.030572
+2021-05-07 01:27:10,273 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:10,273 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:10,274 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:10,289 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:10] "POST /_dash-update-component HTTP/1.1" 200 1822 0.016017
+2021-05-07 01:27:12,436 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:12,442 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:12,442 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:12,463 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:12] "POST /_dash-update-component HTTP/1.1" 200 1835 0.027352
+2021-05-07 01:27:14,287 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:14,287 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:14,287 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:14,304 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:14] "POST /_dash-update-component HTTP/1.1" 200 1846 0.017306
+2021-05-07 01:27:16,347 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:16,347 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:16,347 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:16,361 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:16] "POST /_dash-update-component HTTP/1.1" 200 1859 0.014210
+2021-05-07 01:27:16,864 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:16,865 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:16,865 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:16,885 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:16] "POST /_dash-update-component HTTP/1.1" 200 1872 0.020719
+2021-05-07 01:27:17,441 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:17,448 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:17,454 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:17,469 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:17] "POST /_dash-update-component HTTP/1.1" 200 1884 0.027455
+2021-05-07 01:27:18,775 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:18,775 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:18,775 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:18,791 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:18] "POST /_dash-update-component HTTP/1.1" 200 1895 0.015753
+2021-05-07 01:27:20,197 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:20,197 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:20,197 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:20,219 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:20] "POST /_dash-update-component HTTP/1.1" 200 1907 0.022270
+2021-05-07 01:27:22,649 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:22,657 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:22,658 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:22,680 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:22] "POST /_dash-update-component HTTP/1.1" 200 1921 0.030994
+2021-05-07 01:27:24,870 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:24,870 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:24,876 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:24,898 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:24] "POST /_dash-update-component HTTP/1.1" 200 1932 0.028361
+2021-05-07 01:27:26,950 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:26,950 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:26,950 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:26,978 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:26] "POST /_dash-update-component HTTP/1.1" 200 1944 0.028393
+2021-05-07 01:27:29,195 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:29,201 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:29,202 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:29,218 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:29] "POST /_dash-update-component HTTP/1.1" 200 1956 0.023149
+2021-05-07 01:27:30,657 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:30,657 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:30,657 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:30,681 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:30] "POST /_dash-update-component HTTP/1.1" 200 1969 0.023346
+2021-05-07 01:27:33,124 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:33,130 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:33,137 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:33,151 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:33] "POST /_dash-update-component HTTP/1.1" 200 1982 0.027561
+2021-05-07 01:27:35,291 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:35,296 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:35,302 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:35,323 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:35] "POST /_dash-update-component HTTP/1.1" 200 1994 0.032446
+2021-05-07 01:27:36,549 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:36,550 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:36,550 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:36,572 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:36] "POST /_dash-update-component HTTP/1.1" 200 2006 0.022195
+2021-05-07 01:27:38,167 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:38,175 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:38,181 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:38,197 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:38] "POST /_dash-update-component HTTP/1.1" 200 2018 0.030852
+2021-05-07 01:27:38,811 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:38,811 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:38,811 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:38,832 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:38] "POST /_dash-update-component HTTP/1.1" 200 2030 0.021149
+2021-05-07 01:27:40,287 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:40,293 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:40,300 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:40,316 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:40] "POST /_dash-update-component HTTP/1.1" 200 2042 0.029007
+2021-05-07 01:27:42,292 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:42,298 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:42,299 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:42,315 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:42] "POST /_dash-update-component HTTP/1.1" 200 2054 0.022783
+2021-05-07 01:27:43,948 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:43,954 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:43,954 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:43,976 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:43] "POST /_dash-update-component HTTP/1.1" 200 2065 0.027766
+2021-05-07 01:27:45,608 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:45,608 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:45,608 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:45,630 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:45] "POST /_dash-update-component HTTP/1.1" 200 2078 0.021497
+2021-05-07 01:27:47,829 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:47,835 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:47,835 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:47,859 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:47] "POST /_dash-update-component HTTP/1.1" 200 2092 0.029341
+2021-05-07 01:27:49,552 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:49,553 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:49,553 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:49,568 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:49] "POST /_dash-update-component HTTP/1.1" 200 2104 0.015955
+2021-05-07 01:27:51,730 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:51,730 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:51,730 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:51,747 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:51] "POST /_dash-update-component HTTP/1.1" 200 2118 0.016292
+2021-05-07 01:27:52,386 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:52,387 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:52,387 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:52,407 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:52] "POST /_dash-update-component HTTP/1.1" 200 2130 0.020567
+2021-05-07 01:27:53,522 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:53,528 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:53,534 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:53,561 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:53] "POST /_dash-update-component HTTP/1.1" 200 2143 0.038909
+2021-05-07 01:27:55,095 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:55,095 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:55,095 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:55,118 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:55] "POST /_dash-update-component HTTP/1.1" 200 2155 0.023394
+2021-05-07 01:27:57,918 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:57,923 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:57,923 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:57,959 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:57] "POST /_dash-update-component HTTP/1.1" 200 2167 0.041462
+2021-05-07 01:27:59,625 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:27:59,630 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:27:59,636 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:27:59,670 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:27:59] "POST /_dash-update-component HTTP/1.1" 200 2179 0.045641
+2021-05-07 01:28:00,905 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:00,905 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:00,905 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:00,928 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:00] "POST /_dash-update-component HTTP/1.1" 200 2192 0.023290
+2021-05-07 01:28:01,690 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:01,690 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:01,690 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:01,718 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:01] "POST /_dash-update-component HTTP/1.1" 200 2204 0.027615
+2021-05-07 01:28:03,723 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:03,729 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:03,729 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:03,752 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:03] "POST /_dash-update-component HTTP/1.1" 200 2216 0.028409
+2021-05-07 01:28:06,009 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:06,015 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:06,015 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:06,032 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:06] "POST /_dash-update-component HTTP/1.1" 200 2228 0.022960
+2021-05-07 01:28:06,904 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:06,911 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:06,911 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:06,932 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:06] "POST /_dash-update-component HTTP/1.1" 200 2240 0.028201
+2021-05-07 01:28:08,330 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:08,330 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:08,330 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:08,346 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:08] "POST /_dash-update-component HTTP/1.1" 200 2253 0.016443
+2021-05-07 01:28:09,522 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:09,522 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:09,522 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:09,543 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:09] "POST /_dash-update-component HTTP/1.1" 200 2265 0.021275
+2021-05-07 01:28:11,968 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:11,974 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:11,980 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:11,997 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:11] "POST /_dash-update-component HTTP/1.1" 200 2277 0.028673
+2021-05-07 01:28:13,383 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:13,389 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:13,395 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:13,412 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:13] "POST /_dash-update-component HTTP/1.1" 200 2287 0.028586
+2021-05-07 01:28:14,823 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:14,829 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:14,829 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:14,864 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:14] "POST /_dash-update-component HTTP/1.1" 200 2300 0.041100
+2021-05-07 01:28:16,407 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:16,407 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:16,407 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:16,435 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:16] "POST /_dash-update-component HTTP/1.1" 200 2312 0.028130
+2021-05-07 01:28:18,315 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:18,321 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:18,321 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:18,337 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:18] "POST /_dash-update-component HTTP/1.1" 200 2325 0.021815
+2021-05-07 01:28:19,323 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:19,329 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:19,335 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:19,365 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:19] "POST /_dash-update-component HTTP/1.1" 200 2337 0.042375
+2021-05-07 01:28:20,841 [DEBUG   ] 4631 4614172160 handler: Initializing WebSocket
+2021-05-07 01:28:20,841 [DEBUG   ] 4631 4614172160 handler: Validating WebSocket request
+2021-05-07 01:28:20,841 [DEBUG   ] 4631 4614172160 handler: Can only upgrade connection if using GET method.
+2021-05-07 01:28:20,857 [INFO    ] 4631 4614172160 handler: ::ffff:127.0.0.1 - - [2021-05-07 01:28:20] "POST /_dash-update-component HTTP/1.1" 200 2349 0.016002
+2021-05-07 01:28:22,448 [DEBUG   ] 4631 4614172160 websocket: Closed WebSocket
+2021-05-07 12:07:03,034 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:03,046 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:03,264 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:03] "GET / HTTP/1.1" 200 939 0.230057
+2021-05-07 12:07:03,513 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:03,518 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:03,537 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:03] "GET /_dash-layout HTTP/1.1" 200 1411 0.024225
+2021-05-07 12:07:03,537 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:03,543 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:03,549 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:03] "GET /_dash-dependencies HTTP/1.1" 200 281 0.011791
+2021-05-07 12:07:03,560 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:03,566 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:03,609 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:03] "GET /_favicon.ico?v=1.19.0 HTTP/1.1" 200 9768 0.048494
+2021-05-07 12:07:03,626 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:03,626 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:03,626 [DEBUG   ] 6226 4378299904 handler: Attempting to upgrade connection
+2021-05-07 12:07:03,627 [DEBUG   ] 6226 4378299904 handler: WebSocket request accepted, switching protocols
+2021-05-07 12:07:04,022 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:04,028 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:04,034 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:04,054 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:04] "POST /_dash-update-component HTTP/1.1" 200 1344 0.031739
+2021-05-07 12:07:04,170 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:04,175 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:04,226 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:04] "GET /_favicon.ico?v=1.19.0 HTTP/1.1" 200 9768 0.056469
+2021-05-07 12:07:04,238 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:04,238 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:04,245 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:04,261 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:04] "POST /_dash-update-component HTTP/1.1" 200 1364 0.022690
+2021-05-07 12:07:04,378 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:04,378 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:04,378 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:04,399 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:04] "POST /_dash-update-component HTTP/1.1" 200 1380 0.020829
+2021-05-07 12:07:05,222 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:05,223 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:05,223 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:05,250 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:05] "POST /_dash-update-component HTTP/1.1" 200 1394 0.027660
+2021-05-07 12:07:06,386 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:06,393 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:06,399 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:06,414 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:06] "POST /_dash-update-component HTTP/1.1" 200 1408 0.027755
+2021-05-07 12:07:07,498 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:07,498 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:07,498 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:07,519 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:07] "POST /_dash-update-component HTTP/1.1" 200 1422 0.020880
+2021-05-07 12:07:08,044 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:08,044 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:08,044 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:08,071 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:08] "POST /_dash-update-component HTTP/1.1" 200 1435 0.026871
+2021-05-07 12:07:09,007 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:09,012 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:09,018 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:09,055 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:09] "POST /_dash-update-component HTTP/1.1" 200 1449 0.047911
+2021-05-07 12:07:09,196 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:09,197 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:09,197 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:09,222 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:09] "POST /_dash-update-component HTTP/1.1" 200 1450 0.025620
+2021-05-07 12:07:11,048 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:11,053 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:11,058 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:11,078 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:11] "POST /_dash-update-component HTTP/1.1" 200 1464 0.030748
+2021-05-07 12:07:12,646 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:12,646 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:12,647 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:12,662 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:12] "POST /_dash-update-component HTTP/1.1" 200 1478 0.015654
+2021-05-07 12:07:13,380 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:13,380 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:13,381 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:13,392 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:13] "POST /_dash-update-component HTTP/1.1" 200 1492 0.012173
+2021-05-07 12:07:14,775 [DEBUG   ] 6226 4378299904 handler: Initializing WebSocket
+2021-05-07 12:07:14,786 [DEBUG   ] 6226 4378299904 handler: Validating WebSocket request
+2021-05-07 12:07:14,786 [DEBUG   ] 6226 4378299904 handler: Can only upgrade connection if using GET method.
+2021-05-07 12:07:14,793 [INFO    ] 6226 4378299904 handler: ::ffff:127.0.0.1 - - [2021-05-07 12:07:14] "POST /_dash-update-component HTTP/1.1" 200 1504 0.018817
